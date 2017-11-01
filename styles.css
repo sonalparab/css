@@ -1,0 +1,51 @@
+body {
+    background-color: #4d4d4d;
+    color: white;
+}
+
+h1 {
+    color: #ffff66;
+    font-size: 100px;
+    text-align: center;
+    border-style: dotted solid;
+    border-color: #ffdccc;
+}
+
+h2 {
+    color: #B3E6FF;
+    font-style: italic;
+    font-size: 50px;
+}
+
+h3 {
+    color: #99e699;
+    font-size: 30px;
+}
+
+a {
+    color: pink;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ffeee6;
+    background-color: #ff0066;
+}
+
+a:visited {
+    color: pink;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p {
+    color: #f5ccff;
+    text-indent: 50px;
+    font-family: verdana;
+    font-size: 23px;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+	
