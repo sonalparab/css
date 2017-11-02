@@ -29,7 +29,7 @@ a:visited{
 }
 
 ul {
-    background: #bf00ff;
+    background: #9900cc;
     padding: 20px;
     list-style-type: square;
     font-weight: bold;
@@ -48,3 +48,33 @@ p {
     font-size: 20px;
     text-transform: uppercase;	  
 }
+
+.extreme {
+    background-color: #cc33ff;
+    color: white;
+}
+
+#head1 {
+    font-style: italic;
+}
+
+.navzone {
+    font-family: Courier New, monospace;
+    border-style: dotted solid;
+    border-color: orange red;
+}
+
+#tehlulz {
+    text-transform: uppercase;
+    background-color: #dd99ff;
+    font-size: 30px;
+}
+
+.content {
+    font-style: italic;
+}
+
+.prose{
+    border: 5px solid #990099;
+}
+

@@ -48,4 +48,31 @@ p {
     font-weight: bold;
 }
 
+.extreme {
+    background-color: #00b33c;
+    font-style: bold;
+}
+
+#head1 {
+    text-decoration: underline;
+}
+
+.navzone {
+    background-color: #94b8b8;
+}
+
+#tehlulz {
+    font-style: italic;
+    font-size: 30px;
+}
+
+.content {
+    font-family: Lucida Console, monospace;
+}
+
+.prose{
+    text-decoration: overline;
+    text-decoration-color: #ff3333;
+}
+
 	
