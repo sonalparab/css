@@ -1,0 +1,55 @@
+body {
+    background-color: lightsteelblue;
+}
+
+h1 {
+    color: #0099cc;
+    animation: marquee 6s linear infinite alternate;
+} 
+
+@keyframes marquee { 
+    0% {
+	transform: translateX(70%);
+    }
+    75% {
+	transform: translateX(0%);
+    }
+}
+
+h2{
+    color: #1a1aff;
+    font-size: 30px;
+    width: 250px;
+    height: 40px;
+    background-color: green;
+}
+
+h3{
+    color: blue;
+    font-size: 25px;
+    text-shadow: 3px 3px #00ccff;
+}
+
+.rotate {
+    transform: rotate(-3deg);
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 18px;
+}
+
+.begin {
+    color: #a64dff;
+}
+
+.middle {
+    color: #800080;
+}
+
+.end {
+    color: #6600cc;
+}
