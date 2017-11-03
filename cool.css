@@ -71,6 +71,8 @@ li {
 
 .begin {
     color: #a64dff;
+    border: 10px dotted #33ccff;
+    border-radius: 5px;
 }
 
 .middle {
@@ -84,4 +86,6 @@ li {
 
 .end {
     color: #aa00cc;
+    border-left: 6px solid #003d99;
+    background-color: #66a3ff;
 }
